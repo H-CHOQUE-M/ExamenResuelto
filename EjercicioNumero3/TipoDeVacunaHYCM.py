@@ -19,3 +19,7 @@ elif sexo==2 and edad>=70:
   print("Le corresponde la vacuna C")
 else:
   print("Datos incorrectos")
+
+#SE COMPROBO CON EL DOCUMENTO EXEL.
+#Hyerly Yhonson CHOQUE MAMANI
+#COD : 202122854

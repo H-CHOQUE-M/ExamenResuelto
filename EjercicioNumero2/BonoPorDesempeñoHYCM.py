@@ -22,3 +22,7 @@ elif bono >=401:
 
 else:
   print("\nNo le corresponde ningun bono")
+
+#SE COMPROBO CON EL DOCUMENTO EXEL.
+#Hyerly Yhonson CHOQUE MAMANI
+#COD : 202122854

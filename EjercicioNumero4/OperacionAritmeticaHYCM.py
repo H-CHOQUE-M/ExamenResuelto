@@ -27,3 +27,7 @@ elif operacion=="^":
 
 else:
   print("\nSe equivoco de operacion")
+
+#SE COMPROBO CON EL DOCUMENTO EXEL.
+#Hyerly Yhonson CHOQQUE MAMANI
+#COD : 202122854

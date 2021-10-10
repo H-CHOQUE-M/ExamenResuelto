@@ -9,3 +9,7 @@ nota3=float(input("Ingrese nota 3:"))
 promediofin=(nota1*0.25)+(nota2*0.25)+(nota3*0.50)
 #Datos de salida
 print(f"Su promedio final es: {round(promediofin,2)}")
+
+#SE COMPROBO CON EL DOCUMENTO EXEL.
+#Hyerly Yhonson CHOQUE MAMANI
+#COD : 202122854
